@@ -34,7 +34,7 @@ Make sure you have **Python 3.x** installed on your system. Download it from the
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/RohanCyberOps/calculator.git
 ```
 
 Navigate to the project folder:
